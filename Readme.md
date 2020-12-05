@@ -22,7 +22,7 @@ Instructions
 ------------
 
 -   Open Power Announcement Model driven app
--   https://ReplaceOrgURL/apps/PowerAnnouncement (Ex: https://xxxxxx.crm.dynamics.com/apps/PowerAnnouncement)
+-   https://ReplaceOrgURL/apps (Ex: https://xxxxxx.crm.dynamics.com/apps)
 -   Click Announcement Configurtions -> Click New
 -   Enter the details as below and click Save
 -   Ex: Field Data can be entered as: {"UCIApps":"Power

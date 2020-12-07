@@ -25,12 +25,16 @@ Instructions
 -   https://ReplaceOrgURL/apps (Ex: https://xxxxxx.crm.dynamics.com/apps)
 -   Click Announcement Configurtions -> Click New
 -   Enter the details as below and click Save
--   Ex: Field Data can be entered as: {"UCIApps":"Power
-    Announcement","BusinessUnits":"BUName","SecurityRoles":"Role1,Role2","Teams":"Team1,Team2"}
--   Data field can be configured to support currrent logged in user
-    properties such as the Current UCI App Name, User Business Unit
-    Name, User Role(s), User Team(s)
+-   Ex: Field Data can be entered as: {"UCIApps":"Power Announcement","BusinessUnits":"BUName","SecurityRoles":"Role1,Role2","Teams":"Team1,Team2"}
+-   Data field can be configured to support currrent logged in user properties such as the Current UCI App Name, User Business Unit Name, User Role(s), User Team(s)
 -   Refresh the app. If required do Ctrl+F5
+
+Features
+------------
+-   Control Notification timeout for each announcement
+-   Control notification display during specific time window (Start and End Time)
+-   Provide more details in a SharePoint URL and give hyperlink in Notification
+-   Can display more than 1 announcement at a time
 
 Announcement Configuration Grid
 -------------------------------

@@ -54,3 +54,9 @@ Announcement Display
 
 ![PowerAnnouncement
 Demo](https://github.com/anilvem1/PowerAnnouncement/blob/main/PowerAnnouncement%20Demo.png?raw=true "PowerAnnouncement Demo")
+
+Announcement Use Cases
+--------------------
+
+![PowerAnnouncement
+Use Cases](https://github.com/anilvem1/PowerAnnouncement/blob/main/PowerAnnouncement%20Use%20Cases.png?raw=true "PowerAnnouncement Use Cases")

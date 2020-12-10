@@ -31,6 +31,7 @@ Instructions
 
 Features
 ------------
+-   Notifications can be configured to display at UCI app / Business Unit / Security Role / Team level
 -   Control Notification timeout for each announcement
 -   Control notification display during specific time window (Start and End Time)
 -   Provide more details in a SharePoint URL and give hyperlink in Notification

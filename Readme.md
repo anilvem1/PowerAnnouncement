@@ -12,8 +12,7 @@ Pre-Requisites
 -   Login to your PowerPlatform environment
 -   https://web.powerapps.com/
 -   Select your organization
--   Click Solutions -\> Import
--   Import solution PowerAnnouncement\_1\_0\_0\_2\_managed.zip
+-   Download the solution from AppSource [HERE](https://appsource.microsoft.com/en-us/product/dynamics-365/microsoft_labs.dynamics365powerannouncements)
 -   Provide Organization level Read permissions on Announcement
     Configuration entity to all security role(s) which needed this new
     feature

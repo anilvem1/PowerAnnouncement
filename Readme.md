@@ -13,6 +13,7 @@ Pre-Requisites
 -   https://web.powerapps.com/
 -   Select your organization
 -   Download the solution [HERE](https://github.com/anilvem1/PowerAnnouncement/blob/main/PowerAnnouncement_1_0_0_2_managed.zip)
+-   Import the solution to your CRM organization
 -   Provide Organization level Read permissions on Announcement
     Configuration entity to all security role(s) which needed this new
     feature
